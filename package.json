@@ -1,0 +1,26 @@
+{
+  "name": "curade",
+  "version": "1.0.0",
+  "description": "aesthetic site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrentBradshaw/Curade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrentBradshaw/Curade/issues"
+  },
+  "homepage": "https://github.com/TrentBradshaw/Curade#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.24.1"
+  }
+}
