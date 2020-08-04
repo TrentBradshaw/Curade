@@ -1,0 +1,51 @@
+
+#Navbar {
+    background: blue;
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:100;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+}
+#CuradeHeader{
+    position:fixed;
+    width: 33.33%;
+    margin-left: 33.33%;
+   background: red;
+   text-align: center;
+}
+.Navbar ul {
+    
+    display: inline-block;
+	list-style: none;
+    background-color: black;
+    color: red;
+}
+.Navbar li {
+    display: inline;
+    padding-left: 50px;
+}
+#LeftNavbar{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 33.33%;
+}
+#RightNavbar{
+    position: fixed;
+    top:0;
+    right:0;
+    width: 33.33%;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
